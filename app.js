@@ -12,7 +12,7 @@
 // var app = angular.module('example', ['spotify']);
 
 // app.config(function (SpotifyProvider) {
-//     SpotifyProvider.setClientId('f77925f0471243af97142794fd2efe1d');
+//     SpotifyProvider.setClientId('oops');
 //     SpotifyProvider.setRedirectUri('http://localhost:5000/callback');
 //     SpotifyProvider.setScope('user-read-private user-read-email');
 //     // If you already have an auth token
